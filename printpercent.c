@@ -1,4 +1,4 @@
-#include "h.c"
+#include "main.h"
 
 /**
  * printpercent - prints %

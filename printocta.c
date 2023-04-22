@@ -1,4 +1,4 @@
-#include "h.c"
+#include "main.h"
 /**
  * printocta - prints a hexadecimal
  * @format: format to print hexadecimal

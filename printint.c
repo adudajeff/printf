@@ -1,4 +1,4 @@
-#include "h.c"
+#include "main.h"
 /**
  * _abs - calculates the absolute value.
  * @number: input.
